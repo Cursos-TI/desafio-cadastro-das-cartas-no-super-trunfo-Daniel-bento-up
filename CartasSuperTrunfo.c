@@ -28,7 +28,7 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número da População:\n");
     scanf("%d", &populacao);
 
-    printf("Digite o Pib:\n");
+    printf("Digite o PIB:\n");
     scanf("%f", &pib);
 
     printf("Digite a área em km²:\n");
@@ -39,6 +39,8 @@ int main() { // Desafio Super Trunfo - Países
 
     printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
+    printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
     // Sugestão: Utilize a função scanf para capturar as entradas do usuário para cada atributo.
     // Solicite ao usuário que insira as informações de cada cidade, como o código, nome, população, área, etc.
     
