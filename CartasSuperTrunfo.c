@@ -47,12 +47,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
     printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 02\n");
@@ -77,10 +77,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-     printf("Estado: %c\n", estado);
+    printf("\n");
+
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
     printf("Carta 03\n");
     printf("Digite o Estado:\n");
@@ -104,12 +106,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 04\n");
@@ -134,12 +136,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 05\n");
@@ -164,12 +166,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
     printf("Carta 06\n");
     printf("Digite o Estado:\n");
@@ -193,12 +195,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 07\n");
@@ -223,12 +225,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
     printf("Carta 08\n");
     printf("Digite o Estado:\n");
@@ -252,12 +254,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
     printf("Carta 09\n");
     printf("Digite o Estado:\n");
@@ -281,12 +283,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
     printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 10\n");
@@ -311,12 +313,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 11\n");
@@ -341,12 +343,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-  printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
     printf("Carta 12\n");
     printf("Digite o Estado:\n");                              
@@ -370,12 +372,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
     printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 13\n");
@@ -400,12 +402,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
     printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 14\n");
@@ -430,12 +432,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 15\n");
@@ -460,12 +462,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 16\n");
@@ -490,12 +492,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 17\n");
@@ -520,12 +522,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-          
+    printf("\n");      
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
   
     printf("Carta 18\n");
@@ -550,12 +552,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
     printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 19\n");
@@ -580,12 +582,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
     printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 20\n");
@@ -610,12 +612,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 21\n");
@@ -640,12 +642,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
     printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 22\n");
@@ -670,12 +672,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-   printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
     printf("Carta 23\n");
     printf("Digite o Estado:\n");
@@ -699,12 +701,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 24\n");
@@ -729,12 +731,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 25\n");
@@ -759,12 +761,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
     printf("Carta 26\n");
     printf("Digite o Estado:\n");
@@ -788,12 +790,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 27\n");
@@ -818,12 +820,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
     printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
     printf("Carta 28\n");
     printf("Digite o Estado:\n");
@@ -847,12 +849,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 29\n");
@@ -877,12 +879,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
     printf("Carta 30\n");
     printf("Digite o Estado:\n");
@@ -906,12 +908,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 31\n");
@@ -936,12 +938,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
 
     printf("Carta 32\n");
@@ -966,12 +968,12 @@ int main() { // Desafio Super Trunfo - Países
     printf("Digite o número de pontos turísticos:\n");
     scanf(" %d", &pontos_turisticos);
 
-    
+    printf("\n");
 
-     printf("Estado: %c\n", estado);
+    printf("Estado: %c\n", estado);
     printf("Cidade:%s\nCódigo da Carta:%s\n", nome_cidade,codigo_carta);
     printf("População:%d\nPontos turísticos:%d\n",populacao, pontos_turisticos);
-    printf("Área em Km²:%.2f\nPIB:%.2f\n",area_km2,pib);
+    printf("Área em Km²:%.2f\nPIB:%.2f\n\n",area_km2,pib);
 
     // Sugestão: Utilize a função scanf para capturar as entradas do usuário para cada atributo.
     // Solicite ao usuário que insira as informações de cada cidade, como o código, nome, população, área, etc.
